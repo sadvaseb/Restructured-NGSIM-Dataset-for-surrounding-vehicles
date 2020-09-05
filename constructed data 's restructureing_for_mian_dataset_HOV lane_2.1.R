@@ -10,7 +10,6 @@ library(tictoc)
 tic()
 setwd("C:/Users/X1/Documents")
 # read csv file
-# This is a testing file. The orginal file is data_v <- read.csv("C:/Users/X1/Dropbox/X2/2018/2018.02.02- RNN and clustering/reconstracted-I-80.csv") 
 data_v <- read.csv("C:/Users/X1/Dropbox/X2/2018/2018.02.02- RNN and clustering/reconstracted-I-80.csv") 
 # sort file based on frame number, location, and vehicle ID
 data_v <- data_v[order(data_v$Frame, data_v$Local_Y, data_v$vehicle_ID, data_v$Follower_ID, data_v$Leader_ID),] 

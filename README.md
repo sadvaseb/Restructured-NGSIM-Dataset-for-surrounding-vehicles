@@ -1,4 +1,4 @@
-# Restructured-NGSIM-Dataset-for-surrounding-vehicles
+# Restructured NGSIM Dataset to Include Surrounding Vehicles' Attributes
  
 This study uses Next Generation Simulation dataset (NGSIM) from Interstate 80 freeway (I-80) in Emeryville, California [62], [63]. I-80 freeway at this location has six freeway lanes, a high-occupancy vehicle lane (HOV), and a ramp. NGSIM trajectory data has been collected by FHWA in 2005 by a set of synchronized cameras on the freeway ( Figure 3). The length of the recorded roadway sections is 1,640 ft. The dataset includes trajectory data for about 2,700 vehicles with 10 Hz resolution (i.e. 10 observations per second). In this study, we used reconstructed version of NGSIM data [61]. In the reconstructed NGSIM, measurement errors and noises have been removed by mathematical algorithms [77], [78]. This dataset has been used by several car following studies [59], [79]–[81] and it is publicly available from the Multitude Project website [61].
 

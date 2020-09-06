@@ -19,7 +19,8 @@ The correlations between the attributes are also provided as the below figure.
 The R code includes a detailed explanation of each line of code. It should be easy to modify the code/dataset for your application. 
 
 Best of luck!
-"" Cite
+
+## Cite
 Please cite this dataset/code as:
 
 Vasebi S., Hayeri Y.M., Jin J. (2020) Human Car-Following Behavior: Parametric, Machine-Learning, and Deep-Learning Perspectives. In: Stanton N. (eds) Advances in Human Aspects of Transportation. AHFE 2020. Advances in Intelligent Systems and Computing, vol 1212. Springer, Cham. https://doi.org/10.1007/978-3-030-50943-9_6
